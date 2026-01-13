@@ -15,8 +15,12 @@ This project examines how public sentiment on X (formerly Twitter) affects Tesla
 # [Working Demo](https://github.com/yu-nuo-li/Working-Demo)
 
 This resportory collects the app, dashboard and excel templates I created from past experiences. 
-## [Automated Inventory Management System] (https://github.com/yu-nuo-li/Working-Demo/blob/main/Auto_Inventory_Eng.py)
-It is a Streamlit-based tool designed to streamline daily inventory tracking and reconciliation. It automatically carries over opening stock, integrates sales and exchange records, and computes accurate end-of-day inventory in a standardized workflow. The system supports CSV uploads, conditional alerts, and export-ready reports for operational and financial use. 
+
+## [Automated Inventory Management System](https://github.com/yu-nuo-li/Working-Demo/blob/main/Auto_Inventory_Eng.py)
+
+A Streamlit-based tool designed to streamline daily inventory tracking and reconciliation.  
+It automatically carries forward opening stock, integrates sales and exchange records, and computes accurate end-of-day inventory through a standardized workflow.  
+The system supports CSV uploads, conditional alerts, and export-ready reports for operational and financial use.
 
 # [Project 4: Pricing Determinants of K-Pop Photocards on Mericari](https://github.com/yu-nuo-li/Pricing-Determinants-of-K-Pop-Photocards)
 
